@@ -9,6 +9,7 @@ Description
 This project has two main parts:
 
 1.- scrape folder: Has the sources needed to scrape Vigo Harbour pages
+
 2.- DBupdate folder: Has the sources needed to incrementally update a mysql DB with the new information obtained from the scraping process
 
 Detailed information about each part is given on the README.md inside each folder.
